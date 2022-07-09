@@ -59,7 +59,7 @@ bool isactive=false;
   }
 
   Future<void> initPlatformState() async {
-    engine.connect(config, "USA", username: defaultVpnUsername, password: defaultVpnPassword, certIsRequired: true);
+    engine.connect(config, "KOREA", username: defaultVpnUsername, password: defaultVpnPassword, certIsRequired: true);
     if (!mounted) return;
   }
   
