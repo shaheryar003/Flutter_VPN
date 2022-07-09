@@ -2,6 +2,10 @@
 
 Ad Free VPN
 
+KOREAN SERVER CONFIGURED
+
+used OPENVPN package :  https://pub.dev/packages/flutter_openvpn
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
